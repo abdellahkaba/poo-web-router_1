@@ -1,0 +1,16 @@
+{
+    "name": "kaba/poo-web",
+    "description": "poo_web",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kaba Abdellah",
+            "email": "abdallahkaba98@gmail.com"
+        }
+    ],
+    "require": {}
+}
